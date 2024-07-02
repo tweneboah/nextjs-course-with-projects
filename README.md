@@ -11,13 +11,12 @@ Welcome to the Next.js Course for Beginners! This repository contains all the re
 - **Deploying Your Next.js Application**: Discover how to deploy your Next.js projects for production.
 
 ## BUY THE COURSE
-[Nextjs for beginners with Projects]([http://handlebarsjs.com/](https://www.udemy.com/course/master-nextjs-with-projects/?referralCode=21E8F62A798418274A02))
-
+[Nextjs for beginners with Projects](http://handlebarsjs.com/](https://www.udemy.com/course/master-nextjs-with-projects/?referralCode=21E8F62A798418274A02)
 
 ## How to Get Started
 1. **Clone the repository**: 
    ```bash
-   git clone https://github.com/your-username/nextjs-course-beginners.git
+   git clone https://github.com/tweneboah/nextjs-course-with-projects
    cd nextjs-course-beginners
    npm install
    npm run dev
